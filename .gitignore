@@ -1,0 +1,14 @@
+# Ignore compiled files and executables
+a.out
+main
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore object files and compiled binaries
+*.o
+*.exe
+
+# Ignore backup and temporary files
+*~
+*.swp
