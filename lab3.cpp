@@ -116,3 +116,11 @@ int main()
     delete zoo2;
     return 0;
 }
+
+// # Add the copy constructor and assigmnetn operator '=' to the Zoo Class
+
+// # Zoo& operator = (const Zoo & x);
+// # Zoo(const Zoo & x)
+
+// # Modification in the class Animal if needed
+// # The main() in the testing use autoamtic and dynamic objects of Zoo
